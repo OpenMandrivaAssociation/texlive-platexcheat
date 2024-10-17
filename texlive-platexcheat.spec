@@ -3,7 +3,7 @@ Version:	49557
 Release:	2
 Summary:	A LaTeX cheat sheet, in Japanese
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/platexcheat
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/platexcheat
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/platexcheat.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/platexcheat.doc.r%{version}.tar.xz
